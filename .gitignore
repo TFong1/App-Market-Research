@@ -1,5 +1,8 @@
-# Ignore the data files
+# Ignore Jupyter checkpoints folder
+.ipynb_checkpoints
 
+
+# Ignore the data files
 AppleStore.csv
 googleplaystore.csv
 hacker_news.csv

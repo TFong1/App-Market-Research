@@ -1,9 +1,16 @@
 # Ignore Jupyter checkpoints folder
 .ipynb_checkpoints
+schools
 
 
 # Ignore the data files
 AppleStore.csv
+appleStore_description.csv
 googleplaystore.csv
 hacker_news.csv
 autos.csv
+recent-grads.csv
+percent-bachelors-degrees-women-usa.csv
+tafe_survey.csv
+dete_survey.csv
+star_wars.csv

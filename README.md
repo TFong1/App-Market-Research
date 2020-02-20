@@ -13,6 +13,9 @@ My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Port
 ## DataScience-Ebay-Car-Sales.ipynb
 My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/tree/master/DataScience-Ebay-Car-Sales.ipynb) of the "Exploring Ebay Car Sales Data" project.
 
+## DataScience-Chinook-Analysis.ipynb
+My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/blob/master/DataScience-Chinook-Analysis.ipynb) of the "Answering Business Questions using SQL" project.
+
 # Works in Progress
 
 ## DataScience-Visualizing-Earnings-Based-On-College-Majors.ipynb

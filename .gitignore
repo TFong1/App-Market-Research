@@ -17,3 +17,9 @@ star_wars.csv
 factbook.db
 chinook.db
 chinook-unmodified.db
+appearance_type.csv
+game_log_fields.txt
+game_log.csv
+park_codes.csv
+person_codes.csv
+team_codes.csv

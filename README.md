@@ -13,6 +13,9 @@ My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Port
 ## DataScience-Ebay-Car-Sales.ipynb
 My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/tree/master/DataScience-Ebay-Car-Sales.ipynb) of the "Exploring Ebay Car Sales Data" project.
 
+## DataScience-CIA-World-Factbook.ipynb
+My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/tree/master/DataScience-CIA-World-Factbook.ipynb) of the "CIA World Factbook" project.
+
 ## DataScience-Chinook-Analysis.ipynb
 My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/blob/master/DataScience-Chinook-Analysis.ipynb) of the "Answering Business Questions using SQL" project.
 
@@ -35,6 +38,3 @@ My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Port
 
 ## DataScience-Clean-and-Analyze-Employee-Exit-Surveys.ipynb
 My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/tree/master/DataScience-Clean-and-Analyze-Employee-Exit-Surveys.ipynb) of the "Clean and Analyze Employee Exit Surveys" project.
-
-## DataScience-CIA-World-Factbook.ipynb
-My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/tree/master/DataScience-CIA-World-Factbook.ipynb) of the "CIA World Factbook" project.

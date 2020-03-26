@@ -22,6 +22,9 @@ My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Port
 ## DataScience-MLB-game-logs.ipynb
 My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/blob/master/DataScience-MLB-game-logs.ipynb) of the "Designing and Creating a Database" guided project.
 
+## DataScience-StackExchange.ipynb
+My [implementation](https://nbviewer.jupyter.org/github/TFong1/Data-Science-Portfolio/blob/master/DataScience-StackExchange.ipynb) of the "Popular Data Science Questions" guide project.
+
 # Works in Progress
 
 ## DataScience-Visualizing-Earnings-Based-On-College-Majors.ipynb
